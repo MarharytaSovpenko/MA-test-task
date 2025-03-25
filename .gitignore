@@ -10,6 +10,6 @@ venv/
 *.csv
 
 # External libraries (common directories)
-lib/
+venv/Lib/
 lib64/
 site-packages/

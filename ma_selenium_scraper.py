@@ -118,5 +118,3 @@ df["full_time_duration"] = df["full_time_duration"].str.replace("+", "", regex=F
 # Save to a CSV file
 df.to_csv("courses_data.csv", index=False)
 logging.info(f"Data saved to 'courses_data.csv'.")
-
-video_link = "https://www.loom.com/share/03cf3b00a62641aebb103133323a8c65?sid=8845714f-99bb-4355-b4fc-6d7291696b54"

@@ -18,6 +18,7 @@ Prepare SQL queries to select the next data:
 ### Task 2: Web scraping 
 
 
+
 Create a web scraper using Selenium to extract the list of courses from the landing page of the mate.academy website. The scraper should gather the following information for each course:
 
 Course name
@@ -31,3 +32,5 @@ Number of Modules
 Number of Topics
 
 Course Duration
+
+#### Task 2.1. A video that demonstrates how the parser works: https://www.loom.com/share/03cf3b00a62641aebb103133323a8c65?sid=8845714f-99bb-4355-b4fc-6d7291696b54
