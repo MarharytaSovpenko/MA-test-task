@@ -1,0 +1,15 @@
+# Cache files
+.idea/
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# CSV files
+*.csv
+
+# External libraries (common directories)
+lib/
+lib64/
+site-packages/
